@@ -1,3 +1,125 @@
 * {
-  margin: 0px;
+  margin: 0.3em 0;
+  font: 13px/1.5 sans-serif;
+  min-width: 400px;
+  max-width: 1600px;
+}
+.body {
+
+}
+.spacer {
+  float: left;
+  vertical-align: top;
+  width: 10%;
+  min-width: 25px;
+  max-width: 300px;
+  height: 100vh;
+}
+.into {
+  text-align: justify;
+  font-size: 150%;
+
+}
+.main {
+  position: relative;
+  float: left;
+  width: 80vw;
+}
+.logo {
+  float: left;
+  height: 175px;
+  width: 24.75%;
+  min-width: 150px;
+  max-width: 300px;
+  line-height: 175px;
+  position: relative;
+
+
+}
+.img1 {
+  background: url("enwiki-1.5x.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img2 {
+  background: url("wiktionary.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img3 {
+  background: url("wikiquote.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img4 {
+  background: url("wikibooks.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img5 {
+  background: url("wikisource.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img6 {
+  background: url("wikinews.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img7 {
+  background: url("enwikiversity.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img8 {
+  background: url("specieswiki.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img9 {
+  background: url("mediawikiwiki.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img10 {
+  background: url("wikidatawiki.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img11 {
+  background: url("wikivoyage.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img12 {
+  background: url("mediawikiwiki.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img13 {
+  background: url("metawiki.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img14 {
+  background: url("incubatorwiki.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img15 {
+  background: url("Labslogo_thumb.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.img16 {
+  background: url("foundationwiki.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.footer {
+
+  clear: both;
+  width: 75%;
+  text-align: center;
+  margin: 0 auto;
 }
