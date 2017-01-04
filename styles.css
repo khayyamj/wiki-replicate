@@ -1,6 +1,8 @@
 * {
   margin: 0.3em 0;
-  font: 13px/1.5 sans-serif;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: normal;
   min-width: 400px;
   max-width: 1600px;
 }
@@ -16,12 +18,14 @@
   height: 100vh;
 }
 .into {
-  text-align: justify;
-  font-size: 150%;
 
 }
+.bold {
+  font-weight: bold;
+}
 .main {
-  position: relative;
+  position: absolute;
+  right: 10vw;
   float: left;
   width: 80vw;
 }
@@ -117,9 +121,10 @@
   background-repeat: no-repeat;
 }
 .footer {
-
+  border-top: 1px solid black;
   clear: both;
   width: 75%;
   text-align: center;
+  font-size: 10px;
   margin: 0 auto;
 }
